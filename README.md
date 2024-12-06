@@ -36,7 +36,7 @@ My 📝 in juejin (2022 - now) <a href="https://juejin.cn/user/2485358797783352"
 </p>
 
 ### About me
-- 👨🏽‍💻 I’m currently working in nowcoder;
+- 👨🏽‍💻 I’m currently working in huawei;
 - 🤔 My interests are with web programming, AI in javascript, Vue, React etc..;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email me if you have any questions.
